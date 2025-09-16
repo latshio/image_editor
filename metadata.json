@@ -1,0 +1,5 @@
+{
+  "name": "Image Effects AI",
+  "description": "An AI-powered web application that transforms your photos into cartoons or poster-style art using the Gemini API (nano-banana model).",
+  "requestFramePermissions": []
+}
